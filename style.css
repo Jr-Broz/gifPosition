@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+#container{
+
+  background-color: blueviolet;
+  width: 100vw;
+  height: 100vh;
+  background-image: url(https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif);
+  background-size: 100%;
+  
+}
+
+.landing{
+
+position: absolute;
+top: 0;                  
+display: flex;
+justify-content: center;
+width: 100vw;
+height: 100vh;
+align-items: center;
+background-color: rgba(128,128,128, 0.5);
+}
+
+
+
+.text {
+font-size: 5em;
+color: white;
+text-shadow: 5px 10px 20px darkslategray;
+font-family: 'Orbitron', sans-serif;
+}
+
+
+
+
+
+
